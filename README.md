@@ -1,4 +1,9 @@
-### Hi there 👋
+## ⚡ Me Myself and I ⚡
+
+Hello my followers, as you know my name is João Aguiar, I work as Application Support Engineer and a im still a student at the University of Porto. With a Bachelor's degree in Computer Science Engineering already under my belt, I am currently pursuing a Master's degree in Network Engineering and Computer Systems. 
+
+I enjoy solving problems, learning new technologies and designing software applications. I’m a quick learner with a fun and outgoing personality who is interested in pursuing more knowledge in Web Development and IT Security.
+
 
 <!--
 **JoaoAguiar/JoaoAguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
